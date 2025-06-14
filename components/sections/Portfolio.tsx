@@ -61,15 +61,15 @@ export function Portfolio() {
       url: "https://drive.google.com/file/d/1XxkqjmwCNUjqSHx4c9ijaarAglmt9FOi/view?usp=drive_link",
     },
     {
-      title: "Sat GMW",
+      title: "Sabeena Digital Media Services",
       description:
-        "Creative content production highlighting unique products and services",
-      category: "Content Creation",
+        "Professional website development and digital media services for a leading media company",
+      category: "Web Development",
       image:
         "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=800",
-      tags: ["Product Showcase", "Reels", "Social Media"],
+      tags: ["Website", "Digital Media", "Web Development"],
       gradient: "from-pink-500 to-rose-500",
-      url: "https://drive.google.com/file/d/1xrE1ON_6InO5JPUBEoILfuqU1iVwJF3A/view?usp=drive_link",
+      url: "https://sabeenadigitalms.in",
     },
   ];
 
